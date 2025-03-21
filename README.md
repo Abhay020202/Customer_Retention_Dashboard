@@ -4,7 +4,14 @@
 This project focuses on analyzing telecom customer data to address key challenges in retention and churn management. Using Power BI dashboards created from the provided dataset, the analysis visualizes customer demographics, service utilization, and churn risk indicators. The goal is to identify factors affecting customer retention and enable proactive measures to reduce churn rates.
 
 ---
-
+## Problem Statement
+- **Customer Acquisition Challenge**: Customers in the telecom industry are hard-earned, making it critical to prevent churn and retain existing users.
+- **Current Approach**:
+   - The retention department gets in touch with customers only after they have already terminated their contracts. This reactionary approach limits the ability to prevent churn proactively.
+   - Previous customer analyses using Excel have proven ineffective and inconclusive, ending in dead-ends.
+- **Need for Insights**:
+   - A clear understanding of customer behavior and risks, presented through actionable, self-explanatory visualizations, is required for management to implement effective strategies.
+---
 ## Dataset Description
 The dataset, provided by the Retention Manager, includes the following columns:
 - **customerID**: Unique identifier for each customer.
